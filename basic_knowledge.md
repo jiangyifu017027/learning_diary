@@ -20,6 +20,6 @@ C++中的.inl文件
 <https://zhuanlan.zhihu.com/p/456361131>
 
 关于
-$static$和$const$
+static和const
 
 <https://zhuanlan.zhihu.com/p/141113043>
