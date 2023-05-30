@@ -1,9 +1,8 @@
-
 # useful article
 
 关于
-
 ```cpp
+
 #ifndef CLASS_H
 #define CLASS_H
 ...
